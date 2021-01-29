@@ -1,7 +1,7 @@
 # Elevator Simulation
 ### Program to determine the optimal number of 'steps' to get a number of waiting passengers around in a 10 storey building
 
-Elevator Simulation is a C# console app, build in .Net Core 3.1.
+Elevator Simulation is a C# console app, built in .Net Core 3.1 using Visual Studio.
 
 
 * To load the program, run the following in a terminal & use the master branch
